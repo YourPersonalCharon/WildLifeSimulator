@@ -1,0 +1,13 @@
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.csprojAssemblyReference.cache
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.AssemblyInfoInputs.cache
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.AssemblyInfo.cs
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.csproj.CoreCompileInputs.cache
+D:\Code\C#\WildLife\bin\Debug\netcoreapp3.1\WildLife.exe
+D:\Code\C#\WildLife\bin\Debug\netcoreapp3.1\WildLife.deps.json
+D:\Code\C#\WildLife\bin\Debug\netcoreapp3.1\WildLife.runtimeconfig.json
+D:\Code\C#\WildLife\bin\Debug\netcoreapp3.1\WildLife.runtimeconfig.dev.json
+D:\Code\C#\WildLife\bin\Debug\netcoreapp3.1\WildLife.dll
+D:\Code\C#\WildLife\bin\Debug\netcoreapp3.1\WildLife.pdb
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.dll
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.pdb
+D:\Code\C#\WildLife\obj\Debug\netcoreapp3.1\WildLife.genruntimeconfig.cache
