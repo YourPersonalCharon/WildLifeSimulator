@@ -66,13 +66,14 @@ namespace WildLife
                 foreach (var phase in Phases.PhasesList)
                 {
                     phase.Invoke(map);
+                    Verbose.TurnCounter(i + 1);
+                    Verbose.DrawMap(map);
+                    Verbose.PopulationCount(map);
+
                 }
                 if (debugMode)
                 {
-                    Verbose.TurnCounter(i + 1);
-                    Verbose.DrawMap(map);
                     Verbose.AnimalsAlive(map);
-                    Verbose.PopulationCount(map);
                     Console.WriteLine("_________________");
                 }
             }
